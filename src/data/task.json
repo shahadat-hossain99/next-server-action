@@ -1,0 +1,98 @@
+[
+  {
+    "id": "task_001",
+    "title": "Finish React project UI",
+    "description": "Complete homepage and dashboard UI using Tailwind CSS",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-04-25",
+    "createdAt": "2026-04-20T10:30:00Z",
+    "tags": ["react", "frontend", "ui"],
+    "assignedTo": "self",
+    "estimatedHours": 6
+  },
+  {
+    "id": "task_002",
+    "title": "Learn Next.js routing",
+    "description": "Study App Router and dynamic routing concepts",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-04-28",
+    "createdAt": "2026-04-21T08:00:00Z",
+    "tags": ["nextjs", "learning"],
+    "assignedTo": "self",
+    "estimatedHours": 4
+  },
+  {
+    "id": "task_003",
+    "title": "Fix API error handling",
+    "description": "Improve error handling in fetch calls and display proper UI messages",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-24",
+    "createdAt": "2026-04-22T06:15:00Z",
+    "tags": ["api", "bugfix"],
+    "assignedTo": "self",
+    "estimatedHours": 3
+  },
+  {
+    "id": "task_004",
+    "title": "Write GitHub README",
+    "description": "Create a professional README with badges, projects, and skills",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2026-04-27",
+    "createdAt": "2026-04-19T14:45:00Z",
+    "tags": ["github", "documentation"],
+    "assignedTo": "self",
+    "estimatedHours": 2
+  },
+  {
+    "id": "task_005",
+    "title": "Optimize images",
+    "description": "Compress and optimize images for better performance",
+    "status": "completed",
+    "priority": "low",
+    "dueDate": "2026-04-18",
+    "createdAt": "2026-04-17T11:20:00Z",
+    "tags": ["performance"],
+    "assignedTo": "self",
+    "estimatedHours": 2
+  },
+  {
+    "id": "task_006",
+    "title": "Implement authentication",
+    "description": "Add login and signup functionality with JWT",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-05-02",
+    "createdAt": "2026-04-22T09:00:00Z",
+    "tags": ["auth", "backend"],
+    "assignedTo": "self",
+    "estimatedHours": 8
+  },
+  {
+    "id": "task_007",
+    "title": "Database schema design",
+    "description": "Design MongoDB schema for users and tasks",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-04-26",
+    "createdAt": "2026-04-21T12:10:00Z",
+    "tags": ["database", "mongodb"],
+    "assignedTo": "self",
+    "estimatedHours": 5
+  },
+  {
+    "id": "task_008",
+    "title": "Deploy project",
+    "description": "Deploy app to Vercel and configure environment variables",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-05-05",
+    "createdAt": "2026-04-22T07:30:00Z",
+    "tags": ["deployment", "vercel"],
+    "assignedTo": "self",
+    "estimatedHours": 3
+  }
+]
