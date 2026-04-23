@@ -7,7 +7,7 @@ const TaskCard = ({ task }) => {
   return (
     <div>
       <Card
-        variant="transparent"
+        variant="default"
         className="border shadow-2xl hover:scale-105 ease-in"
       >
         {/* <CircleDollar
